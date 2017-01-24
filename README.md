@@ -1,2 +1,2 @@
-# karlkoorna.github.io
+# Karl Köörna
 Hub website for my projects.
