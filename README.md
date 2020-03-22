@@ -1,2 +1,2 @@
 # Karl Köörna
-Assets for other projects.
+Utility repository.
