@@ -1,2 +1,6 @@
 # Karl Köörna
-Utility repository.
+Meta
+
+## Links
+* [GitHub](https://github.com/karlkoorna)
+* [CodePen](https://codepen.io/karlkoorna)
